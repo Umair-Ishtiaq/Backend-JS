@@ -1,0 +1,14 @@
+Express:
+express is npm pkg
+Is a framwork
+manage everything from request to response 
+npm i express
+
+setting basics:
+routing
+middleware
+request & response
+Error handling
+form handling
+handle backend of form-> data coming from any frontend handle in backend
+cookies sections

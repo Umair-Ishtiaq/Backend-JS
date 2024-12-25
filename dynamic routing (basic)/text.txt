@@ -1,0 +1,15 @@
+setting up parsers for from
+
+setting up ejs for ejs pages
+    install ejs
+
+setting up public static file
+
+
+initialise a project (npm init -y)
+install express
+
+dynami routing
+    basic
+    handle data from front to back
+
